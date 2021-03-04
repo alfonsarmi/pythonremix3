@@ -18,7 +18,7 @@ print(letters)
 number_list = [ x for x in range(20) if x % 2 == 0]
 print(number_list)
 
-#Example 5: Nested IF with List Comprehension
+#Example 5: Nested IF with List Comprehension 
 num_list = [y for y in range(100) if y % 2 == 0 if y % 5 == 0]
 print(num_list)
 
